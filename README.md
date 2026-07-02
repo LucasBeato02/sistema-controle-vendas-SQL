@@ -33,6 +33,6 @@ A modelagem permite que o banco de dados responda rapidamente a perguntas estrat
 3. **Abstração com Views:** Criação de camadas de leitura (`vw_maior_iv`) para facilitar o consumo dos dados por ferramentas de BI.
 
 ## ✉️ Contato
-Desenvolvido por **Lucas Vinícius Martins Beato**[cite: 1]
-* **LinkedIn:** [linkedin.com/in/lucas-vinicius-martins-beato](https://www.linkedin.com/in/lucas-vinicius-martins-beato)[cite: 1]
-* **E-mail:** lvmbeato@gmail.com[cite: 1]
+Desenvolvido por **Lucas Vinícius Martins Beato**
+* **LinkedIn:** [linkedin.com/in/lucas-vinicius-martins-beato](https://www.linkedin.com/in/lucas-vinicius-martins-beato)
+* **E-mail:** lvmbeato@gmail.com
