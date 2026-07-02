@@ -3,6 +3,14 @@
 ## 📌 Visão Geral do Projeto
 Este projeto consiste no desenvolvimento e estruturação do banco de dados relacional **`sistema_loja`**. O objetivo é gerenciar as operações comerciais de uma loja, cobrindo o cadastro de clientes, colaboradores, portfólio de produtos e o fluxo completo de registros de vendas com total integridade referencial.
 
+## 🗄️ Visualização do Banco
+<img width="660" height="59" alt="Captura de tela 2026-04-20 161057" src="https://github.com/user-attachments/assets/b4ec52ef-845e-491b-a9a7-310fe0a717a9" />
+<img width="356" height="459" alt="Captura de tela 2026-04-20 163554" src="https://github.com/user-attachments/assets/ac65a636-3cc9-43ad-b1ab-851374e3d88a" />
+<img width="453" height="62" alt="Captura de tela 2026-04-20 163604" src="https://github.com/user-attachments/assets/54115246-5492-428f-9a7d-a7f66a5428cb" />
+<img width="342" height="286" alt="Captura de tela 2026-04-20 163424" src="https://github.com/user-attachments/assets/86821e17-93a1-4978-82e7-ec8a49439bdb" />
+<img width="251" height="444" alt="Captura de tela 2026-04-20 163443" src="https://github.com/user-attachments/assets/da66301b-a1ee-4a2e-9136-f494bc32394c" />
+<img width="316" height="481" alt="Captura de tela 2026-04-20 163515" src="https://github.com/user-attachments/assets/198a40d5-558b-44dc-8f1c-1d1c77e3b141" />
+
 ## 🗄️ Estrutura e Modelagem do Banco de Dados
 O banco foi modelado com chaves primárias (`PRIMARY KEY`) e chaves estrangeiras (`FOREIGN KEY`), garantindo relacionamentos consistentes. A estrutura é composta pelas seguintes tabelas e colunas:
 
